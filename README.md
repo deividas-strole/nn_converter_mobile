@@ -44,16 +44,6 @@ Created as a **personal learning project** and practical mobile tool for:
 
 ---
 
-## 👨‍💻 Author
-
-**Deividas Strole**  
-Full-Stack Software Engineer  
-
-- Java, JavaScript, Python, React, Spring Boot, Cloud  
-- Portfolio projects by Deividas Strole  
-
----
-
 ## 📄 License
 
 This project is open-source under the **MIT License**.
@@ -69,7 +59,7 @@ This project is open-source under the **MIT License**.
 - [Medium](https://medium.com/@deividas-strole)  
 - [X](https://x.com/deividasstrole)  
 
-⭐ If you found this project useful, consider starring the repository to support the work of **Deividas Strole**.
+⭐ If you found this project useful, consider starring the repository to support the work.
 
 © Deividas Strole. All rights reserved.
 
